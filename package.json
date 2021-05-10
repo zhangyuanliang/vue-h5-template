@@ -13,7 +13,7 @@
     "amfe-flexible": "^2.2.1",
     "axios": "^0.19.0",
     "js-cookie": "2.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "normalize.css": "^7.0.0",
     "vant": "^2.2.7",
     "vue": "^2.5.2",
